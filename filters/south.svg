@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="329">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0">
   <filter id="south" color-interpolation-filters="sRGB">
     <feBlend mode="multiply"></feBlend>
     <feColorMatrix type="saturate" values=".6"></feColorMatrix>
