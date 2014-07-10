@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0">
+  <filter id="kittenplan" color-interpolation-filters="sRGB">
+    <feComponentTransfer>
+      <feFuncG type="gamma" amplitude="1" exponent=".5" offset=".04"></feFuncG>
+      <feFuncB type="gamma" amplitude=".65" exponent=".3" offset=".04"></feFuncB>
+      <feFuncR type="gamma" amplitude=".97" exponent=".5" offset=".035"></feFuncR>
+    </feComponentTransfer>
+  </filter>
+</svg>
